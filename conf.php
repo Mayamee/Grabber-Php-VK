@@ -14,5 +14,5 @@
 	error_reporting(E_ERROR);
 	$CONF_TOKEN = "YOUR_TOKEN";
 	# Группы откуда будем брать записи
-	$CONF_GROUPS = array ('-20629724', '-8820055', '-71741545');
+	$CONF_GROUPS = array ('-SOME_GROUP', '-ANOTHER_SOME_GROUP', '-ANOTHER_SOME_GROUP');
 ?>
